@@ -1,4 +1,4 @@
-# self_project
+# simple_project
 다양한 코딩 경험을 위한 혼자서 해보는 개인 프로젝트
 
 
